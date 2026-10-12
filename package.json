@@ -2,7 +2,7 @@
   "name": "idea-git-log",
   "displayName": "IDEA Git Log",
   "description": "A focused Git log view with branches, commit graph, and commit details. No AI features.",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "publisher": "petrichoral",
   "license": "MIT",
   "repository": {
